@@ -1,6 +1,6 @@
     //<![CDATA[
     var _Hasync = _Hasync || [];
-    _Hasync.push(['Histats.start', '1,4571949,4,0,0,0,00010000']);
+    _Hasync.push(['Histats.start', '1,4578323,4,0,0,0,00010000']);
     _Hasync.push(['Histats.fasi', '1']);
     _Hasync.push(['Histats.track_hits', '']);
     (function () {
